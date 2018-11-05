@@ -389,7 +389,7 @@ table(seq_classes, arr_classes)
 length(which(seq_classes == arr_classes))
 
 
-################################################################################CONCORDANCE BETWEEN CLASSIFIERS
+################################################################################CONCORDANCE BETWEEN METACLUSTERS AND PUBLISHED CLASSIFIERS
 ################################################################################
 
 
